@@ -1,0 +1,6 @@
+{"routes":[
+    {"broker":"127.0.0.1:1883","topic":"testcase/demo/d1","endpoint":"http://127.0.0.1:80/ep1","endpoint_user":"foo","endpoint_pw":"bar"},
+    {"broker":"127.0.0.1:1883","topic":"testcase/demo/d1","endpoint":"http://127.0.0.1:80/ep2","endpoint_user":"foo","endpoint_pw":"bar"},
+    {"broker":"127.0.0.1:8883","topic":"testcase2/demo/#","endpoint":"http://127.0.0.1:80/general"},
+    {"broker":"127.0.0.1:8883","topic":"testcase2/demo","endpoint":"http://127.0.0.1:8080/foo/bar"}]
+}

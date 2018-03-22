@@ -1,0 +1,4 @@
+{"routes":[
+    {"broker":"127.0.0.1:1883","topic":"hello/world","endpoint":"http://127.0.0.1:8090/ep1"},
+    {"broker":"127.0.0.1:1883","topic":"hello/world","endpoint":"http://127.0.0.1:8090/ep2"}]
+}
